@@ -1,9 +1,10 @@
-## Inflation Comparision
+# Inflation Comparision
 
-# Features 
+## Features 
 - calculating inflation for different products
 - charts
   
-# inflation_comparison/
+## inflation_comparison/
 ├── analysis.xlsx      ← Main Excel file
+
 ├── README.md          ← Project documentation
